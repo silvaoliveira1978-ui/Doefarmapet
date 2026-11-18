@@ -1,0 +1,28 @@
+{
+  "id": "./index.php",
+  "name": "Adote Certo — Jogo de Cuidados com Pets",
+  "short_name": "Adote Certo",
+  "description": "Adote um pet virtual e aprenda sobre cuidados e posse responsável.",
+  "lang": "pt-BR",
+  "start_url": "./index.php",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f2ea",
+  "theme_color": "#f5f2ea",
+  "categories": ["games", "education"],
+  "icons": [
+    {
+      "src": "assets/pet-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/pet-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
